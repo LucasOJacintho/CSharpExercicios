@@ -1,0 +1,7 @@
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1001 - Extremamente Básico\bin\Debug\BEE1001 - Extremamente Básico.exe.config
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1001 - Extremamente Básico\bin\Debug\BEE1001 - Extremamente Básico.exe
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1001 - Extremamente Básico\bin\Debug\BEE1001 - Extremamente Básico.pdb
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1001 - Extremamente Básico\obj\Debug\BEE1001 - Extremamente Básico.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1001 - Extremamente Básico\obj\Debug\BEE1001 - Extremamente Básico.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1001 - Extremamente Básico\obj\Debug\BEE1001 - Extremamente Básico.exe
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1001 - Extremamente Básico\obj\Debug\BEE1001 - Extremamente Básico.pdb

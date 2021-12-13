@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8e0e598a-d9cd-4147-8d1c-4d8e85ed7335": {
+      "ProjectGuid": "8e0e598a-d9cd-4147-8d1c-4d8e85ed7335",
+      "DisplayName": "Exercícios",
+      "ColorIndex": 0
+    },
+    "0fd44a83-4c21-4d2d-8e73-972073d4bdca": {
+      "ProjectGuid": "0fd44a83-4c21-4d2d-8e73-972073d4bdca",
+      "DisplayName": "BEE1050 - DDD",
+      "ColorIndex": 1
+    },
+    "e2becb83-afb2-4bd8-a584-2dee8772279e": {
+      "ProjectGuid": "e2becb83-afb2-4bd8-a584-2dee8772279e",
+      "DisplayName": "BEE1001 - Extremamente Básico",
+      "ColorIndex": 2
+    },
+    "d9a0c7e0-f750-496c-86b6-7f9fe4e46c68": {
+      "ProjectGuid": "d9a0c7e0-f750-496c-86b6-7f9fe4e46c68",
+      "DisplayName": "BEE1002 - Área de um círculo",
+      "ColorIndex": 3
+    },
+    "01b1df97-1d14-437a-8994-5ad83ad9035d": {
+      "ProjectGuid": "01b1df97-1d14-437a-8994-5ad83ad9035d",
+      "DisplayName": "BEE1074 - Par ou Impar",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

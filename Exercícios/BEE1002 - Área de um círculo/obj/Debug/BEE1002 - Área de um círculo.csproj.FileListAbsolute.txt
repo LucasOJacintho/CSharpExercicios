@@ -1,0 +1,8 @@
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1002 - Área de um círculo\obj\Debug\BEE1002 - Área de um círculo.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1002 - Área de um círculo\obj\Debug\BEE1002 - Área de um círculo.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1002 - Área de um círculo\obj\Debug\BEE1002 - Área de um círculo.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1002 - Área de um círculo\bin\Debug\BEE1002 - Área de um círculo.exe.config
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1002 - Área de um círculo\bin\Debug\BEE1002 - Área de um círculo.exe
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1002 - Área de um círculo\bin\Debug\BEE1002 - Área de um círculo.pdb
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1002 - Área de um círculo\obj\Debug\BEE1002 - Área de um círculo.exe
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1002 - Área de um círculo\obj\Debug\BEE1002 - Área de um círculo.pdb

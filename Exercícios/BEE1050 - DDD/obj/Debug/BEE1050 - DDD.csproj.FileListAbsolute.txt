@@ -1,0 +1,7 @@
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1050 - DDD\bin\Debug\BEE1050 - DDD.exe.config
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1050 - DDD\bin\Debug\BEE1050 - DDD.exe
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1050 - DDD\bin\Debug\BEE1050 - DDD.pdb
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1050 - DDD\obj\Debug\BEE1050 - DDD.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1050 - DDD\obj\Debug\BEE1050 - DDD.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1050 - DDD\obj\Debug\BEE1050 - DDD.exe
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1050 - DDD\obj\Debug\BEE1050 - DDD.pdb

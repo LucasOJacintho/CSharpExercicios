@@ -1,0 +1,7 @@
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1074 - Par ou Impar\bin\Debug\BEE1074 - Par ou Impar.exe.config
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1074 - Par ou Impar\bin\Debug\BEE1074 - Par ou Impar.exe
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1074 - Par ou Impar\bin\Debug\BEE1074 - Par ou Impar.pdb
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1074 - Par ou Impar\obj\Debug\BEE1074 - Par ou Impar.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1074 - Par ou Impar\obj\Debug\BEE1074 - Par ou Impar.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1074 - Par ou Impar\obj\Debug\BEE1074 - Par ou Impar.exe
+C:\Users\lucas\Documents\DEV\CSharp\Exercícios\BEE1074 - Par ou Impar\obj\Debug\BEE1074 - Par ou Impar.pdb
