@@ -1,0 +1,8 @@
+C:\Users\lucas\Documents\DEV\CSharp\CSharpExercicios\Exercícios\Apostila ELGIN\obj\Debug\Apostila ELGIN.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\DEV\CSharp\CSharpExercicios\Exercícios\Apostila ELGIN\obj\Debug\Apostila ELGIN.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Documents\DEV\CSharp\CSharpExercicios\Exercícios\Apostila ELGIN\obj\Debug\Apostila ELGIN.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\DEV\CSharp\CSharpExercicios\Exercícios\Apostila ELGIN\bin\Debug\Apostila ELGIN.exe.config
+C:\Users\lucas\Documents\DEV\CSharp\CSharpExercicios\Exercícios\Apostila ELGIN\bin\Debug\Apostila ELGIN.exe
+C:\Users\lucas\Documents\DEV\CSharp\CSharpExercicios\Exercícios\Apostila ELGIN\bin\Debug\Apostila ELGIN.pdb
+C:\Users\lucas\Documents\DEV\CSharp\CSharpExercicios\Exercícios\Apostila ELGIN\obj\Debug\Apostila ELGIN.exe
+C:\Users\lucas\Documents\DEV\CSharp\CSharpExercicios\Exercícios\Apostila ELGIN\obj\Debug\Apostila ELGIN.pdb

@@ -27,8 +27,9 @@ namespace BEE1050___DDD
                     {
                         Console.WriteLine(DDDEntrada);
                         Console.ReadLine();
+                        break;
                     }
-                };
+                }
             }
         }
     }

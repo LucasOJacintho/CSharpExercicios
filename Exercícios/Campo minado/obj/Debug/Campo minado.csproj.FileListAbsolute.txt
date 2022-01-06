@@ -1,0 +1,8 @@
+C:\Users\lucas\Documents\DEV\CSharp\CSharpExercicios\Exercícios\Campo minado\bin\Debug\Campo minado.exe.config
+C:\Users\lucas\Documents\DEV\CSharp\CSharpExercicios\Exercícios\Campo minado\bin\Debug\Campo minado.exe
+C:\Users\lucas\Documents\DEV\CSharp\CSharpExercicios\Exercícios\Campo minado\bin\Debug\Campo minado.pdb
+C:\Users\lucas\Documents\DEV\CSharp\CSharpExercicios\Exercícios\Campo minado\obj\Debug\Campo minado.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Documents\DEV\CSharp\CSharpExercicios\Exercícios\Campo minado\obj\Debug\Campo minado.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\DEV\CSharp\CSharpExercicios\Exercícios\Campo minado\obj\Debug\Campo minado.exe
+C:\Users\lucas\Documents\DEV\CSharp\CSharpExercicios\Exercícios\Campo minado\obj\Debug\Campo minado.pdb
+C:\Users\lucas\Documents\DEV\CSharp\CSharpExercicios\Exercícios\Campo minado\obj\Debug\Campo minado.csproj.AssemblyReference.cache
